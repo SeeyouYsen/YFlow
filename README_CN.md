@@ -32,7 +32,7 @@
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/SeeyouYsen/YFlow.git", from: "1.0.0")
+    .package(url: "https://github.com/SeeyouYsen/YFlow.git", from: "0.0.1")
 ]
 ```
 
@@ -496,3 +496,7 @@ swift test
 **作者**: SeeyouYsen  
 **创建时间**: 2025 年 10 月 13 日  
 **需要帮助？** 如果你遇到问题或有建议，欢迎提交 Issue！
+
+---
+
+*本 README 文档由 AI 辅助生成，为 YFlow 项目提供全面的说明文档。*

@@ -32,7 +32,7 @@ Add the dependency to your `Package.swift` file:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/SeeyouYsen/YFlow.git", from: "1.0.0")
+    .package(url: "https://github.com/SeeyouYsen/YFlow.git", from: "0.0.1")
 ]
 ```
 
@@ -496,3 +496,7 @@ This project is open source under the MIT License. See [LICENSE](LICENSE) file f
 **Author**: SeeyouYsen  
 **Created**: October 13, 2025  
 **Need Help?** If you encounter problems or have suggestions, feel free to submit an Issue!
+
+---
+
+*This README was generated with the assistance of AI to provide comprehensive documentation for the YFlow project.*
